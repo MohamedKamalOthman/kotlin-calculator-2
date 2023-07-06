@@ -28,4 +28,9 @@ git clone https://github.com/MohamedKamalOthman/kotlin-calculator-2.git
 
 
 
+https://github.com/MohamedKamalOthman/kotlin-calculator-2/assets/76039756/05ae64d2-0ca5-4ec7-a21e-68151a64381a
+
+
+
 # Screenshots
+![Calculator2](https://github.com/MohamedKamalOthman/kotlin-calculator-2/assets/76039756/48629444-6d75-42dc-bd54-750ba3c22d98)
