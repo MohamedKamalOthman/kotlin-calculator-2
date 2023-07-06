@@ -7,7 +7,7 @@ This is a simple calculator app for Android, written in Kotlin. It was developed
 # Requirements
 - Android Studio 4.0 or later
 - Kotlin 1.3 or later
-- 
+
 # Installation
 - Clone the repository:
 ```
